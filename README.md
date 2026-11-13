@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:08152e,55:1947a6,100:3985ed&amp;height=170&amp;section=header&amp;text=Sepolia%20Bank&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=36" alt="Sepolia Bank" />
 
   <p>เว็บทดลองฝาก ถอน และตรวจสอบยอดเงินผ่าน Smart Contract บน Ethereum Sepolia</p>
-  <p><strong>นายฤทธิพร ผึ่งผาย · รหัสนักศึกษา 66088346</strong></p>
   <p>
     <a href="https://rittiporn12.github.io/sepolia-bank-dapp/"><strong>เปิดเว็บ Sepolia Bank</strong></a>
     &nbsp;·&nbsp;
